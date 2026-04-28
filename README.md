@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 👨‍💻 Turning ideas into working software<br>- 🧠 Currently exploring .NET internals and Azure cloud services<br>- 🎯 Goal: Build software that is simple to use and hard to break<br>- 🔭 Currently building: DocMasters — Streamlining document workflows for Chartered Accountants, built with .NET MVC<br>- 📫 Reach me at: *[your email or LinkedIn URL]*</p>
+<p align="left">- 👨‍💻 Turning ideas into working software<br>- 🧠 Currently exploring .NET internals and Azure cloud services<br>- 🎯 Goal: Build software that is simple to use and hard to break<br>- 🔭 Currently building: DocMasters — Streamlining document workflows for Chartered Accountants, built with .NET MVC<br>- 📫 Reach me at: pranavpatel2105.pg@gmail.com</p>
 
 ###
 
