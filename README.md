@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">- 👨‍💻 Turning ideas into working software<br>- 🧠 Currently exploring .NET internals and Azure cloud services<br>- 🎯 Goal: Build software that is simple to use and hard to break<br>- 🔭 Currently building: DocMasters — Streamlining document workflows for Chartered Accountants, built with .NET MVC<br>- 📫 Reach me at: *[your email or LinkedIn URL]*</p>
 
 ###
 
@@ -47,14 +47,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PranavPatel2105&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PranavPatel2105&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/pranav-patel-b43085259/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
